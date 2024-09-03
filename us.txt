@@ -1,4 +1,4 @@
 Hi
 this is git
 python is better than git
-sql is better than python
+but do we rock?
